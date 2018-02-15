@@ -1,0 +1,58 @@
+/*style.css*/
+
+body {
+  font: normal 1rem;
+  color: #000;
+  background: #fff;
+}
+
+#card {
+	width: 300px;
+  	padding: 10px;
+  	border: 1px solid #ccc;
+  	-webkit-box-shadow: 0 5px 5px rgba(0, 0, 0, 0.3);
+     -moz-box-shadow: 0 5px 5px rgba(0, 0, 0, 0.3);
+          box-shadow: 0 5px 5px rgba(0, 0, 0, 0.3)
+}
+
+#card-content {
+  margin: 0;
+  padding: 10px;
+  font-size: 0.900rem;
+  border: 1px solid #ccc;
+}
+
+#card-title {
+	margin: 0;
+	font-family: Arial, sans-serif;
+	font-size: 24px;
+	color: rgb(0,125,145);
+}
+
+#sub-title {
+	font-family: Georgia, serif;
+	font-style: italic;
+}
+
+#picture {
+	padding: 5px 0;
+}
+
+#list {
+	list-style: none;
+	padding: 0;
+}
+
+.item {
+	font-family: Arial, sans-serif;
+	font-weight: normal;
+}
+
+.label {
+	font-family: Arial, sans-serif;
+	font-weight: bold;
+}
+
+#text {
+	font-family: Georgia, serif;
+}
